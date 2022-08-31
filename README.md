@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ctramm (Cameron Trammell)
+- 👀 I’m interested in all things for Quality Engineers. 
+- 🌱 I’m currently exploring new options to use Python with.
+- 💞️ I’m looking to collaborate on anything you're willing to include me in but I especially enjoy testing and Python related projects or tasks.
+- 📫 How to reach me: https://www.linkedin.com/in/cameron-trammell/ 
